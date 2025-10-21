@@ -20,5 +20,6 @@ fin - name of the input file
 fout - output path
 ```
 ## Submodules
-Perspective correction - https://gitlab.com/NoSignificantWorries/CV-2-25/
+Perspective correction - https://gitlab.com/NoSignificantWorries/CV-2-25/ <p>
 Text detection - https://github.com/Graf-Durka/Text-detection (A forked version is used for modularity:https://github.com/serglad/Text_detection)
+</p>
