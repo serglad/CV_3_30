@@ -1,3 +1,6 @@
 [submodule "CV-2-25"]
 	path = CV_2_25
 	url = https://gitlab.com/NoSignificantWorries/CV-2-25
+[submodule "Text_detection"]
+	path = Text_detection
+	url = https://github.com/serglad/Text_detection
